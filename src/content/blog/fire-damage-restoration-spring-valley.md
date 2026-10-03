@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Fire Damage Restoration in Spring Valley, NV: What to Do After a House Fire"
-h1: "Fire Damage Restoration in Spring Valley, NV: What to Do After a House Fire"
+title: "What to Do After a House Fire in Spring Valley, NV"
+h1: "What to Do After a House Fire in Spring Valley, NV"
 meta_description: "Fire damage restoration in Spring Valley, NV starts within hours of a fire. Here's what the process looks like, what your insurance covers, and who to call first."
-primary_keyword: "fire damage restoration spring valley"
+primary_keyword: "what to do after a house fire in spring valley nv"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,16 +11,17 @@ hero: "/images/blog/2026/10/fire-damage-restoration-spring-valley/hero.webp"
 og: "/images/blog/2026/10/fire-damage-restoration-spring-valley/hero.webp"
 generated_at: "2026-09-20T14:40:50Z"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/services/contents-restoration-storage/", "/services/water-damage-restoration/", "/blog/fire-damage-restoration-process/", "/blog/fire-damage-restoration-cost-nv/", "/blog/choosing-a-restoration-company/", "/service-areas/spring-valley-nv/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Fire Damage Restoration in Spring Valley, NV: What to Do After a House Fire"}]
+internal_links: ["/service-areas/spring-valley-nv/fire-damage-restoration/", "/services/fire-damage-restoration/", "/services/contents-restoration-storage/", "/services/water-damage-restoration/", "/blog/fire-damage-restoration-process/", "/blog/fire-damage-restoration-cost-nv/", "/blog/choosing-a-restoration-company/", "/service-areas/spring-valley-nv/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "What to Do After a House Fire in Spring Valley, NV"}]
 faq: [{"question": "How long does fire damage restoration take in Spring Valley, NV?", "answer": "Most residential fire damage restoration jobs in Spring Valley take between one and six weeks from initial mitigation through final reconstruction. A small kitchen fire with limited smoke spread may resolve in a week. A whole-room or multi-room fire with structural damage typically runs three to six weeks depending on permitting timelines, material availability, and the extent of contents restoration needed."}, {"question": "Can I stay in my home during fire damage restoration?", "answer": "Usually not during the mitigation phase. Soot removal, odor treatment with thermal foggers or ozone, and structural drying all require the space to be unoccupied. Your homeowners insurance additional living expense coverage (Coverage D) pays for hotel and meals while the home is uninhabitable. Keep all receipts and submit them to your adjuster."}, {"question": "Does homeowners insurance cover smoke damage as well as fire damage?", "answer": "Yes. Smoke and soot damage are covered as part of a fire loss under a standard homeowners policy, not as a separate claim. This includes smoke damage to rooms that did not have direct fire contact, smoke-damaged contents, and water damage from firefighting suppression. Document all affected areas before any cleaning begins."}, {"question": "What is the difference between fire restoration and fire cleanup?", "answer": "Fire cleanup typically refers to debris removal and basic surface cleaning. Fire restoration is the full process: emergency stabilization, water extraction and drying, soot and smoke removal, odor elimination, contents pack-out, and structural reconstruction back to pre-loss condition. Insurance claims are written to the restoration standard, not just cleanup."}, {"question": "Do I need a Clark County permit for fire damage repairs in Spring Valley?", "answer": "Yes, for structural repairs. Clark County requires building permits for work that involves framing, electrical, plumbing, or roofing. A licensed restoration contractor pulls the permits as part of the job. If you are in an HOA community like Rhodes Ranch, exterior repairs also require HOA approval before work begins. Skipping permits can create problems when you sell the home."}, {"question": "How do professionals remove smoke odor from a house?", "answer": "Professional smoke odor removal uses thermal fogging, hydroxyl generation, or ozone treatment to chemically neutralize odor molecules embedded in porous materials. The method depends on the materials in the home and whether occupants or pets need to return quickly. Ozone is highly effective but requires the space to be vacated during treatment. Masking sprays and air fresheners do not address the underlying odor compounds."}]
 published_at: "2026-09-20"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 ---
 **TL;DR:** Fire damage restoration in Spring Valley, NV typically begins within hours of a fire being extinguished. A certified crew secures the structure, removes soot and smoke residue, dries water from firefighting efforts, and rebuilds affected areas. Most homeowners insurance policies cover the full scope when the loss is documented correctly. The sooner mitigation starts, the less secondary damage you face from smoke penetration and moisture.
 
-If you just had a fire at your home in Rhodes Ranch, Peccole Ranch, or anywhere in the Spring Valley area, the next 24 to 48 hours are the most critical window in your recovery. Smoke odor and soot residue continue damaging surfaces long after the flames are out, and the water left behind by fire suppression creates its own mold risk if it sits. This guide walks you through what happens, what to expect from your insurance claim, and how to protect your property right now.
+If you just had a fire at your home in Rhodes Ranch, Peccole Ranch, or anywhere in the Spring Valley area, the next 24 to 48 hours are the most critical window in your recovery. Smoke odor and soot residue continue damaging surfaces long after the flames are out, and the water left behind by fire suppression creates its own mold risk if it sits. This guide walks you through what happens, what to expect from your insurance claim, and how to protect your property right now. Full service details are on the [Spring Valley fire damage restoration page](/service-areas/spring-valley-nv/fire-damage-restoration/).
 
 ## What Does Fire Damage Restoration Actually Involve?
 

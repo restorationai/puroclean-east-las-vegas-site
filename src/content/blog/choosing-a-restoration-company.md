@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Las Vegas (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Las Vegas (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in las vegas without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-07-23T06:31:03.627829+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Las Vegas (Without Getting Burned)"}]
 faq: [{"question": "Should I call my insurance company or a restoration company first?", "answer": "If there is active water intrusion or an immediate safety hazard, address the emergency first, shut off the water supply, evacuate if necessary, and document what you can with your phone. Then call your insurance company to open a claim before authorizing any significant restoration work. Having a claim number in place before work begins protects you and ensures the documentation the contractor creates is tied to your claim from the start."}, {"question": "How do I know if a restoration estimate is reasonable?", "answer": "Most professional restoration companies write estimates using Xactimate, the same pricing software insurance adjusters use, which bases costs on regional labor and material rates. Ask the contractor to walk you through the line items and explain what each one covers. If a line item is vague, 'miscellaneous demo,' for example, ask for specifics. A significant gap between the contractor's estimate and your insurer's approved amount is worth questioning in writing with both parties."}, {"question": "Can I stay in my home during restoration work?", "answer": "It depends on the type and extent of the damage. Minor water damage in a single room often allows normal occupancy in the rest of the house. Fire and smoke damage typically requires temporary relocation because airborne soot and chemical residues can be harmful, and the restoration process itself generates dust and fumes. Active mold remediation requires containment and negative air pressure, which makes the affected area uninhabitable during work. Your contractor should give you a clear answer based on the actual conditions, not a blanket policy."}, {"question": "What is a 'direction to pay' or 'assignment of benefits,' and should I sign one?", "answer": "A direction to pay authorizes your insurance company to pay the contractor directly from your claim proceeds. An assignment of benefits goes further, it transfers your rights under the insurance policy to the contractor, allowing them to negotiate and settle the claim on your behalf. Direction to pay is common and generally unproblematic. Assignment of benefits is more consequential and has been the source of disputes in many states; Nevada has specific regulations governing it. Read any such clause carefully, and if you're uncertain, ask your insurance agent to explain what you'd be agreeing to before you sign."}]
 published_at: "2026-07-15"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]

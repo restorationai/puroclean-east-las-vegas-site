@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Fire Damage Restoration in Sunrise Manor, NV: What to Do After a House Fire"
-h1: "Fire Damage Restoration in Sunrise Manor, NV: What to Do After a House Fire"
+title: "What to Do After a House Fire in Sunrise Manor, NV"
+h1: "What to Do After a House Fire in Sunrise Manor, NV"
 meta_description: "Fire damage restoration in Sunrise Manor, NV starts with one call. Learn what happens in the first 48 hours, how insurance works, and what to expect from the full restoration process."
-primary_keyword: "fire damage restoration sunrise manor"
+primary_keyword: "what to do after a house fire in sunrise manor nv"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,10 +11,11 @@ hero: "/images/blog/2026/10/fire-damage-restoration-sunrise-manor/hero.webp"
 og: "/images/blog/2026/10/fire-damage-restoration-sunrise-manor/hero.webp"
 generated_at: "2026-09-22T15:29:47Z"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/services/water-damage-restoration/", "/services/contents-restoration-storage/", "/blog/fire-damage-restoration-process/", "/blog/fire-damage-restoration-cost-nv/", "/blog/what-to-do-first-24-hours-water-damage/", "/service-areas/sunrise-manor-nv/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Fire Damage Restoration in Sunrise Manor, NV: What to Do After a House Fire"}]
+internal_links: ["/service-areas/sunrise-manor-nv/fire-damage-restoration/", "/services/fire-damage-restoration/", "/services/water-damage-restoration/", "/services/contents-restoration-storage/", "/blog/fire-damage-restoration-process/", "/blog/fire-damage-restoration-cost-nv/", "/blog/what-to-do-first-24-hours-water-damage/", "/service-areas/sunrise-manor-nv/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "What to Do After a House Fire in Sunrise Manor, NV"}]
 faq: [{"question": "How long does fire damage restoration take in Sunrise Manor?", "answer": "Most residential fire damage restoration in Sunrise Manor takes 2 to 8 weeks from emergency stabilization through reconstruction. A single-room loss with limited smoke damage may resolve in 2 to 3 weeks. A whole-house fire with structural damage to multiple rooms typically runs 6 to 8 weeks or longer, depending on Clark County permit timelines and the availability of materials."}, {"question": "Does homeowners insurance cover fire damage restoration in Nevada?", "answer": "Yes. Standard homeowners insurance policies in Nevada cover fire damage restoration, including smoke, soot, and water damage from firefighting. Your dwelling coverage pays for structural repairs, personal property coverage pays for damaged contents, and additional living expenses coverage pays for temporary housing. Document all damage with photos before cleanup begins, and call your insurer the same day to open the claim."}, {"question": "Can I stay in my home after a fire while restoration is in progress?", "answer": "In most cases, no. A home with active soot, smoke odor, and elevated moisture is not safe to occupy during restoration. Soot particulates are a respiratory hazard, and the chemicals released by burned synthetic materials can cause long-term health effects. Your additional living expenses coverage should pay for temporary housing while the work is completed."}, {"question": "What is the difference between fire damage restoration and fire damage cleanup?", "answer": "Cleanup refers to removing debris, ash, and damaged materials. Restoration is the full process: cleanup, structural drying, soot removal, deodorization, contents restoration, and reconstruction back to pre-loss condition. Most insurance claims cover the full restoration scope, not just cleanup. Make sure your contractor's written scope includes all phases before work begins."}, {"question": "How soon should I call a restoration company after a fire in Sunrise Manor?", "answer": "Call the same day the fire department clears the property. Soot begins to permanently bond to surfaces within 72 hours, and Las Vegas's low humidity accelerates that process. Water from firefighting hoses can trigger mold growth within 24 to 48 hours. Delaying mitigation risks secondary damage that your insurer may dispute as a separate, preventable loss."}, {"question": "Will a restoration company handle my insurance claim paperwork?", "answer": "A restoration company produces the written scope of work and line-item estimate your adjuster needs, typically using Xactimate, the industry-standard platform. They can communicate directly with your adjuster and supplement the claim if additional damage is discovered during demolition. They do not act as your public adjuster, but a well-documented scope from the contractor is the most important document in your claim."}]
 published_at: "2026-09-22"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 youtube_id: "ic_D088AVr8"
@@ -22,7 +23,7 @@ video_transcript: "A house fire is one of the most overwhelming things a homeown
 ---
 **TL;DR:** After a house fire in Sunrise Manor, the first step is securing the property and calling a certified fire damage restoration company. A professional crew will board up openings, extract water left by firefighting, remove soot and smoke residue, and dry the structure before rebuilding begins. Most homeowners insurance policies cover fire damage restoration, including smoke and water cleanup. The full process typically takes 2 to 8 weeks depending on the severity of the loss.
 
-If you are standing in front of a smoke-damaged home in Nellis Meadows or waiting for the fire marshal to clear your property near Sunrise Vista, the hours right after a fire are the most consequential. What you do, and who you call, in the first 24 to 48 hours shapes how much of your home and contents can be saved. This guide walks you through exactly what fire damage restoration looks like in Sunrise Manor, how the insurance process works, and what a professional crew actually does on-site.
+If you are standing in front of a smoke-damaged home in Nellis Meadows or waiting for the fire marshal to clear your property near Sunrise Vista, the hours right after a fire are the most consequential. What you do, and who you call, in the first 24 to 48 hours shapes how much of your home and contents can be saved. This guide walks you through exactly what fire damage restoration looks like in Sunrise Manor, how the insurance process works, and what a professional crew actually does on-site. Full service details are on the [Sunrise Manor fire damage restoration page](/service-areas/sunrise-manor-nv/fire-damage-restoration/).
 
 ## What does fire damage restoration actually involve?
 

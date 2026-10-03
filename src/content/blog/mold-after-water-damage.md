@@ -16,7 +16,7 @@ faq: [{"question": "Can mold grow inside walls without any visible signs on the 
 published_at: "2026-07-15"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
-author: "Gregory Arianoff"
+author: "Greg Arianoff"
 ---
 Mold can begin colonizing wet materials in as little as **24 to 48 hours** after water exposure, and in Las Vegas's dry climate, that timeline surprises most homeowners who assume the desert heat protects them. It doesn't. Once moisture is trapped inside a wall cavity, under flooring, or behind a cabinet, the low outdoor humidity is irrelevant. The spores already in your home, and they're always present at low levels, only need a wet surface and a temperature above 40°F to start growing. By 72 hours, a small wet patch can become a visible colony. By the end of the first week, you may be dealing with a remediation project instead of a drying job.
 

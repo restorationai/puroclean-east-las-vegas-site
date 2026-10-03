@@ -16,7 +16,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-07-15"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
-author: "Gregory Arianoff"
+author: "Greg Arianoff"
 ---
 The fastest way to get burned after a disaster isn't the fire itself, it's hiring the wrong restoration company while you're still in shock. When a pipe bursts at 2 a.m. or smoke has settled into every surface of your home, the pressure to hire *someone* fast is real. But a few deliberate checks, most of which take less than ten minutes, can be the difference between a clean recovery and a months-long dispute with a contractor who disappeared after cashing your insurance check.
 

@@ -16,7 +16,7 @@ faq: [{"question": "Can I stay in my home during fire damage restoration?", "ans
 published_at: "2026-07-17"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
-author: "Gregory Arianoff"
+author: "Greg Arianoff"
 ---
 Fire moves fast. Within minutes, flames can consume structural materials; within hours, smoke residue is already bonding to walls, ceilings, and the contents of rooms that never burned. If your home or building has just been through a fire, or you're trying to understand what happens next after one, here is the full restoration process, step by step, from the moment the fire trucks leave to the day you walk back into a livable space. Knowing the sequence helps you ask the right questions, avoid costly mistakes, and set realistic expectations for your timeline.
 

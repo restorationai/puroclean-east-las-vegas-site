@@ -16,7 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage claim in Nevada?",
 published_at: "2026-09-19"
 services: ["storm-damage-restoration"]
 rendered: true
-author: "Gregory Arianoff"
+author: "Greg Arianoff"
 ---
 Before you pick up the phone to file a storm damage claim, walk through your property and do four things: photograph everything, write down what happened and when, separate immediate safety hazards from items that can wait, and get a rough category of damage (roof, water intrusion, wind, hail) clear in your head. Insurers process claims faster and more fairly when the homeowner calls in organized rather than reactive. This checklist walks through exactly what to document, what to avoid saying or doing, and when storm damage has crossed the line from "I can handle this" to "I need a restoration crew on-site."
 

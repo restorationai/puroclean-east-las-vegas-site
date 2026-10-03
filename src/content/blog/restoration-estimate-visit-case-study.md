@@ -17,6 +17,7 @@ faq: [{"question": "If I rent my home, can I choose which restoration company do
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Gregory Arianoff"
 ---
 **TL;DR:** A good restoration estimate visit has three markers: the company shows up quickly, treats the property carefully while assessing it, and leaves behind a clear, reasonable quote. That holds true whether you own the home or you're a tenant whose landlord makes the final call.
 

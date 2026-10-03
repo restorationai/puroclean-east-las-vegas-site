@@ -16,6 +16,7 @@ faq: [{"question": "Is sewage backup covered by standard homeowner's insurance?"
 published_at: "2026-07-11"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 Sewage backup is one of the few home emergencies where the instinct to grab rubber gloves and a mop can genuinely make you sick. Raw sewage, whether it's backing up through a floor drain, a toilet, or a utility sink, contains a cocktail of bacteria, viruses, and parasites that don't become safe just because the water looks murky rather than visibly brown. If you're standing in front of a flooded basement right now trying to decide whether to clean it yourself, the short answer is: don't. Here's exactly why, and what to do instead.
 

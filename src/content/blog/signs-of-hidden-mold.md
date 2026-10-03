@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-07-10"
 services: ["mold-remediation"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often it's growing inside a wall cavity, under a bathroom vanity, or beneath flooring that got wet once and never fully dried, and the only clue is a smell you can't place or a cough that won't quit. If something feels off in your home but you can't find the source, these seven signs are worth taking seriously.
 

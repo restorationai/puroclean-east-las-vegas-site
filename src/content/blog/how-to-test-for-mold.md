@@ -16,6 +16,7 @@ faq: [{"question": "How accurate are the mold test kits sold at hardware stores?
 published_at: "2026-07-10"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 If you've spotted a dark stain on the ceiling, caught a musty smell behind a cabinet, or just had a slow leak repaired, you're probably wondering whether there's mold growing somewhere you can't see. The short answer: a DIY test kit can confirm mold is *present*, but it can't tell you what species it is, how much is there, or where it's hiding. A professional inspection does all three. Whether a kit is a reasonable first step or a waste of $30 depends on what question you're actually trying to answer, and that's what this post breaks down.
 

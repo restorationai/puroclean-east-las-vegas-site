@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before a burst pipe causes mold?", "answe
 published_at: "2026-07-08"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 When a pipe bursts, you have minutes, not hours, before water soaks into drywall, subfloor, and insulation. Here is what to do: shut off your main water supply immediately, cut power to any affected rooms at the breaker, document everything with your phone camera, and then start removing standing water. The steps below walk through each action in order, explain what to skip, and tell you when the damage has crossed the line from DIY cleanup into professional territory.
 

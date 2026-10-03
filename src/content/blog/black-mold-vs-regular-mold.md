@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself without a lab?", "answer": 
 published_at: "2026-07-10"
 services: ["mold-remediation"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 Most mold you find in a Las Vegas home is not the toxic black mold you've read about, but that doesn't mean it's harmless, and it doesn't mean you can tell the difference by color alone. The honest answer: you cannot reliably identify *Stachybotrys chartarum* (the mold commonly called "black mold") just by looking at it. Color, texture, and smell give you clues, but a lab test is the only way to know for certain what species you're dealing with. What you *can* do right now is understand the differences well enough to decide how urgently you need to act.
 

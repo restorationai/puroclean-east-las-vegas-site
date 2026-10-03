@@ -17,6 +17,7 @@ faq: [{"question": "Is trauma and crime scene cleanup covered by homeowners insu
 published_at: "2026-10-01"
 services: []
 rendered: true
+author: "Gregory Arianoff"
 ---
 **TL;DR:** Trauma and crime scene cleanup (biohazard remediation) is the process of safely removing blood, bodily fluids, and other potentially infectious materials from a property after a death, injury, or violent incident. It requires specialized PPE, EPA-registered disinfectants, and proper disposal of regulated medical waste, work that falls outside what police, coroners, or family members are equipped or expected to handle. Most homeowners insurance policies cover it under trauma or crime scene cleanup provisions.
 

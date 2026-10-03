@@ -17,6 +17,7 @@ faq: [{"question": "How much does fire damage restoration cost in Nevada?", "ans
 published_at: "2026-09-07"
 services: []
 rendered: true
+author: "Gregory Arianoff"
 ---
 **TL;DR:** Fire damage restoration in Nevada typically costs between $3,000 and $75,000, with most residential losses falling in the $10,000 to $40,000 range. The final number depends on the size of the fire, how far smoke and soot traveled through the home, what materials were damaged, and whether structural repairs are needed. Every loss is different, and PuroClean of East Las Vegas provides a written scope before any work begins.
 

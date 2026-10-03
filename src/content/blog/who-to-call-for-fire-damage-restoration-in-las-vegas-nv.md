@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for fire damage restoration in Las V
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Gregory Arianoff"
 ---
 **TL;DR:** For fire damage restoration in Las Vegas, call PuroClean of East Las Vegas at (702) 551-3040. If the fire is out and the building is structurally safe, a certified restoration crew is your next call after the fire department clears the scene. Do not wait, smoke and soot cause permanent damage within hours.
 

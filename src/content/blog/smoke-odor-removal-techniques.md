@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke odor last in a house if it's not profess
 published_at: "2026-07-09"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Gregory Arianoff"
 ---
 Smoke odor doesn't just sit on surfaces, it penetrates them. The particles that carry that acrid, burnt smell are submicron in size, which means they work their way into drywall, insulation, HVAC ductwork, wood framing, and fabric at a molecular level. Professional smoke odor removal works because it addresses all of those layers simultaneously, using equipment and chemistry that simply aren't available at a hardware store. DIY methods, candles, sprays, baking soda, even ozone machines rented from a big-box store, almost always mask the odor temporarily rather than eliminating it. Here's why the difference matters, and what the professional process actually looks like.
 

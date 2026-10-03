@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "PuroClean of East Las Vegas | Restoration Services in Las Vegas, NV"
-h1: "Restoration Services in Las Vegas"
-meta_description: "PuroClean of East Las Vegas provides water, fire, mold, and storm damage restoration across Las Vegas and surrounding areas. Call +17025513040."
-primary_keyword: "restoration services las vegas"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Las Vegas, NV | PuroClean of East Las Vegas"
+h1: "Water Damage Restoration in Las Vegas, NV"
+meta_description: "PuroClean of East Las Vegas provides water damage restoration in Las Vegas, NV. Call (702) 551-3040 now."
+primary_keyword: "water damage restoration las vegas"
+secondary_keywords: ["best restoration company in las vegas", "restoration company las vegas", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "48fc114259e8377e"

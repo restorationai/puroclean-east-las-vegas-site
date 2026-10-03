@@ -26,6 +26,15 @@
       1200
     ]
   },
+  "/images/services/basement-flooding-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/biohazard-cleanup.webp": {
     "width": 1376,
     "height": 768,
@@ -36,6 +45,24 @@
     ]
   },
   "/images/services/burst-frozen-pipes.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/burst-pipe-repair.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/ceiling-water-damage-repair.webp": {
     "width": 1376,
     "height": 768,
     "variants": [
@@ -80,7 +107,52 @@
       1200
     ]
   },
+  "/images/services/emergency-water-removal.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/fire-damage-restoration.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/flood-damage-restoration.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/general-contracting.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/industrial-restoration.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/large-loss-response.webp": {
     "width": 1376,
     "height": 768,
     "variants": [
@@ -107,7 +179,34 @@
       1200
     ]
   },
+  "/images/services/reconstruction.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/sewage-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/smoke-damage-restoration.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/services/storm-damage-restoration.webp": {
     "width": 1376,
     "height": 768,
     "variants": [
@@ -134,18 +233,27 @@
       1200
     ]
   },
-  "/images/team.webp": {
-    "width": 1536,
-    "height": 1024,
+  "/images/services/water-heater-flood-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
     "variants": [
       480,
       768,
       1200
     ]
   },
-  "/images/services/emergency-water-removal.webp": {
+  "/images/services/water-leak-detection.webp": {
     "width": 1376,
     "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
+  "/images/team.webp": {
+    "width": 1536,
+    "height": 1024,
     "variants": [
       480,
       768,

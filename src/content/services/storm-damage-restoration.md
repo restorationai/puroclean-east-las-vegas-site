@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/blog/storm-damage-insurance-claim-
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "storm-damage-restoration"}]
 faq: []
 service_slug: "storm-damage-restoration"
-service_display: "storm-damage-restoration"
+service_display: "Storm Damage Restoration"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug puroclean-east-las-vegas` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

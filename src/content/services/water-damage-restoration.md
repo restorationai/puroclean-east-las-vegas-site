@@ -54,13 +54,13 @@ Good operators document everything, moisture readings, equipment logs, photograp
 
 ## Seasonal and regional considerations for Las Vegas
 
-Las Vegas sits in a desert, but that doesn't make water damage rare, it makes it less expected, which means it often goes longer before someone notices. The valley's hard water accelerates corrosion in supply lines and water heater connections, and older homes in Henderson, North Las Vegas, and the central valley neighborhoods frequently have aging galvanized or copper plumbing that fails without warning.
+Las Vegas sits in a desert, but that doesn't make water damage rare, it makes it less expected, which means it often goes longer before someone notices. The valley's hard water accelerates corrosion in supply lines and water heater connections, and older homes in [Henderson](/service-areas/henderson-nv/water-damage-restoration/), [North Las Vegas](/service-areas/north-las-vegas-nv/water-damage-restoration/), and the central valley neighborhoods frequently have aging galvanized or copper plumbing that fails without warning.
 
 Summer monsoon season brings a different risk: rapid, high-volume rainfall on hardscape-heavy lots that have minimal soil absorption. Water intrudes through foundation cracks, window wells, and garage door thresholds faster than most homeowners anticipate. The dry climate also creates a false sense of security, low ambient humidity means surface materials dry quickly, which can mask moisture that's still trapped in wall cavities and subfloor assemblies.
 
 ## Service area
 
-PuroClean of East Las Vegas handles water damage restoration throughout the Las Vegas valley, including Henderson, Summerlin, North Las Vegas, Boulder City, and the surrounding communities. The service-area pages for each city link back here for full process and technical detail.
+PuroClean of East Las Vegas handles water damage restoration throughout the Las Vegas valley, including Henderson, Summerlin, North Las Vegas, [Boulder City](/service-areas/boulder-city-nv/water-damage-restoration/), and the surrounding communities. The service-area pages for each city link back here for full process and technical detail.
 
 ---
 

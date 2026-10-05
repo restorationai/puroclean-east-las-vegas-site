@@ -53,7 +53,7 @@ Slab leaks are another regional driver. The valley's soil movement and aging cop
 
 ## Service area
 
-PuroClean of East Las Vegas serves the greater Las Vegas valley including Henderson, North Las Vegas, Summerlin, Green Valley, Boulder City, and surrounding communities. Dedicated service-area pages cover mold remediation in each of these neighborhoods, this page covers the process and standards that apply across all of them.
+PuroClean of East Las Vegas serves the greater Las Vegas valley including [Henderson](/service-areas/henderson-nv/mold-remediation/), [North Las Vegas](/service-areas/north-las-vegas-nv/mold-remediation/), Summerlin, Green Valley, [Boulder City](/service-areas/boulder-city-nv/mold-remediation/), and surrounding communities. Dedicated service-area pages cover mold remediation in each of these neighborhoods, this page covers the process and standards that apply across all of them.
 
 ---
 

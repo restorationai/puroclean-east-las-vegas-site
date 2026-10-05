@@ -72,4 +72,4 @@ Older neighborhoods in East Las Vegas, many built in the 1960s through 1980s, fr
 
 ## Service area
 
-PuroClean of East Las Vegas serves the greater Las Vegas Valley, including Henderson, North Las Vegas, Summerlin, Boulder City, and surrounding communities. The city-specific pages for each area link back here for the full detail on what water removal and cleanup involves, the process is the same regardless of zip code.
+PuroClean of East Las Vegas serves the greater Las Vegas Valley, including [Henderson](/service-areas/henderson-nv/emergency-water-removal/), [North Las Vegas](/service-areas/north-las-vegas-nv/emergency-water-removal/), Summerlin, [Boulder City](/service-areas/boulder-city-nv/emergency-water-removal/), and surrounding communities. The city-specific pages for each area link back here for the full detail on what water removal and cleanup involves, the process is the same regardless of zip code.

@@ -57,7 +57,7 @@ Las Vegas's desert climate creates fire-specific patterns worth knowing. The val
 
 ## Service area
 
-PuroClean of East Las Vegas handles fire and smoke restoration throughout the Las Vegas valley, including Henderson, North Las Vegas, Summerlin, Boulder City, and surrounding unincorporated Clark County communities. Dedicated service-area pages cover specific neighborhoods and cities, each one links back here for the full technical picture of what fire damage restoration involves.
+PuroClean of East Las Vegas handles fire and smoke restoration throughout the Las Vegas valley, including [Henderson](/service-areas/henderson-nv/fire-damage-restoration/), [North Las Vegas](/service-areas/north-las-vegas-nv/fire-damage-restoration/), Summerlin, [Boulder City](/service-areas/boulder-city-nv/fire-damage-restoration/), and surrounding unincorporated Clark County communities. Dedicated service-area pages cover specific neighborhoods and cities, each one links back here for the full technical picture of what fire damage restoration involves.
 
 ---
 

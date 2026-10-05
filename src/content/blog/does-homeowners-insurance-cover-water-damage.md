@@ -78,7 +78,7 @@ One important note: your policy requires you to take *reasonable steps* to preve
 
 Las Vegas is dry, but that doesn't mean mold isn't a risk after water damage. In a wet wall cavity or under wet flooring, mold can begin colonizing in as little as 24–48 hours regardless of outdoor humidity. Once mold is present, your coverage situation gets more complicated.
 
-Most HO-3 policies cover mold remediation *only if* it results directly from a covered water loss and *only if* you acted promptly to mitigate. If an adjuster determines that mold grew because you waited two weeks to address a burst pipe, the mold remediation may be excluded even if the original pipe break was covered.
+Most HO-3 policies cover mold remediation *only if* it results directly from a covered water loss and *only if* you acted promptly to mitigate. If an adjuster determines that mold grew because you waited two weeks to address a [burst pipe](/services/burst-frozen-pipes/), the mold remediation may be excluded even if the original pipe break was covered.
 
 This is the practical reason why professional water extraction and drying matters beyond just getting floors dry. Proper drying, using industrial air movers and dehumidifiers, with moisture readings taken daily, creates a documented record that you mitigated aggressively. That documentation protects your claim if mold shows up later.
 

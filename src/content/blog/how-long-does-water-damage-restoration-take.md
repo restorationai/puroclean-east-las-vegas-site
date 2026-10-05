@@ -18,7 +18,7 @@ services: ["water-damage-restoration"]
 rendered: true
 author: "Greg Arianoff"
 ---
-Most water damage restoration jobs take **3 to 5 days** from the moment a crew arrives to the point where your home is dry enough for repairs to begin. That said, the real answer depends on three things: how long the water sat before anyone noticed, how deeply it penetrated your materials, and what category of water caused the damage. A burst supply line caught within an hour looks very different from a slow leak behind a vanity that went unnoticed for two weeks.
+Most [water damage restoration](/services/water-damage-restoration/) jobs take **3 to 5 days** from the moment a crew arrives to the point where your home is dry enough for repairs to begin. That said, the real answer depends on three things: how long the water sat before anyone noticed, how deeply it penetrated your materials, and what category of water caused the damage. A burst supply line caught within an hour looks very different from a slow leak behind a vanity that went unnoticed for two weeks.
 
 ## Why the Timeline Varies So Much
 

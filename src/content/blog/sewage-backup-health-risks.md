@@ -35,7 +35,7 @@ In Las Vegas, the problem is compounded by the climate. Summer temperatures rout
 
 ## The Mistakes People Make in the First 30 Minutes
 
-Most DIY sewage cleanup attempts go wrong immediately, before the person even picks up a mop. Here's what to avoid:
+Most DIY [sewage cleanup](/services/sewage-cleanup/) attempts go wrong immediately, before the person even picks up a mop. Here's what to avoid:
 
 **Running the HVAC system.** The moment you turn on a fan or your air handler, you're pulling aerosolized sewage particles through your ductwork and redistributing them to every room in the house. Turn your HVAC off at the thermostat and leave it off until a professional has assessed the space.
 

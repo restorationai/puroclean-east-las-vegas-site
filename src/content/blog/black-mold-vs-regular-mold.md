@@ -77,7 +77,7 @@ You should also call a professional if:
 - The mold keeps coming back after cleaning.
 - You suspect *Stachybotrys* based on the signs above.
 
-A certified mold remediation team will set up containment (plastic sheeting and negative air pressure) to prevent cross-contamination, remove affected materials properly, treat the structural surfaces, and verify clearance with post-remediation testing. That process matters regardless of which species is present, but it's non-negotiable if *Stachybotrys* is involved.
+A certified [mold remediation](/services/mold-remediation/) team will set up containment (plastic sheeting and negative air pressure) to prevent cross-contamination, remove affected materials properly, treat the structural surfaces, and verify clearance with post-remediation testing. That process matters regardless of which species is present, but it's non-negotiable if *Stachybotrys* is involved.
 
 ## Getting a Definitive Answer: Mold Testing
 

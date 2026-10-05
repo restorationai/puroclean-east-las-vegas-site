@@ -46,7 +46,7 @@ These apply whether you're dealing with water damage from a burst supply line, s
 
 You can learn a lot before anyone sets foot on your property.
 
-- **They quote a price before seeing the damage.** Legitimate restoration scopes are written after a physical inspection and moisture mapping, not over the phone. A flat-rate quote for water damage or mold remediation before any assessment is almost always a low-ball number that expands dramatically once work begins.
+- **They quote a price before seeing the damage.** Legitimate restoration scopes are written after a physical inspection and moisture mapping, not over the phone. A flat-rate quote for water damage or [mold remediation](/services/mold-remediation/) before any assessment is almost always a low-ball number that expands dramatically once work begins.
 - **They discourage you from calling your insurance company.** Some contractors prefer to work outside insurance because it lets them set their own pricing. That may or may not be in your interest, but the decision should be yours, not theirs.
 - **They can't name the drying standard or remediation protocol they'll follow.** This is the single clearest signal of technical competence. Ask it.
 - **They push you to sign immediately because "the damage is getting worse."** Active water damage does get worse over time, mold can begin colonizing porous materials within 24 to 48 hours in Las Vegas's dry heat if moisture is trapped in wall cavities. That's a real fact. But it's also a sales tactic. A legitimate company will explain the urgency clearly without manufacturing panic.

@@ -45,7 +45,7 @@ Before you wade in, cut power to any room with standing water. Water and live ou
 Once it is safe to enter, **document before you touch anything**:
 
 1. Take wide-angle photos of every affected room from the doorway.
-2. Photograph the burst pipe or source location.
+2. Photograph the [burst pipe](/services/burst-frozen-pipes/) or source location.
 3. Get close-up shots of water lines on walls, wet flooring, and any damaged belongings.
 4. Note the time and date, insurers want a timeline.
 

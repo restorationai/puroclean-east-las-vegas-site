@@ -42,7 +42,7 @@ A certified mold inspector does several things a $30 kit cannot.
 3. **Air and surface sampling with lab analysis**, a professional collects samples using calibrated equipment and sends them to an accredited third-party lab. Results include spore counts, species identification, and a comparison to outdoor baseline levels. That comparison is what makes the data actionable.
 4. **Written report**, this matters if you're dealing with an insurance claim, a real estate transaction, or a landlord-tenant dispute. A professional report with lab chain-of-custody documentation carries weight; a petri dish you watched on your kitchen counter does not.
 
-PuroClean of East Las Vegas offers mold inspection and testing as a separate service from remediation, which matters: you want the person finding the problem and the person fixing it to be working from the same objective data.
+PuroClean of East Las Vegas offers [mold inspection](/services/mold-inspection-testing/) and testing as a separate service from remediation, which matters: you want the person finding the problem and the person fixing it to be working from the same objective data.
 
 ## When a DIY Kit Is (and Isn't) Enough
 

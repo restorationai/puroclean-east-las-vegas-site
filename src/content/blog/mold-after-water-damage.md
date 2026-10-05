@@ -36,7 +36,7 @@ A few factors accelerate this in Nevada homes specifically:
 
 The single most important thing you can do after any water event is reduce moisture as fast as possible. The clock starts the moment water contacts a surface, not the moment you notice it.
 
-1. **Stop the source.** If it's a burst pipe or supply line, turn off the main shutoff valve, typically located near the water meter at the street or in a utility closet. If it's an appliance (dishwasher, water heater, refrigerator ice maker), turn off the dedicated supply valve behind or beneath the unit.
+1. **Stop the source.** If it's a [burst pipe](/services/burst-frozen-pipes/) or supply line, turn off the main shutoff valve, typically located near the water meter at the street or in a utility closet. If it's an appliance (dishwasher, water heater, refrigerator ice maker), turn off the dedicated supply valve behind or beneath the unit.
 2. **Remove standing water.** A wet/dry shop vac handles small volumes. For larger floods, a submersible pump is faster. Don't leave standing water overnight, every hour counts.
 3. **Pull up saturated soft materials.** Wet rugs, bath mats, and area rugs should come up immediately. They hold moisture against the subfloor and are rarely worth saving after full saturation.
 4. **Open cabinet doors and vanities.** Under-sink cabinets are a common dead zone for moisture. Open them and direct a fan inside.
